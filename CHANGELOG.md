@@ -1,5 +1,30 @@
 # Leaflet-providers changelog
 
+## 1.13.0 (2021-10-19)
+ - Add Azure Maps Tiles provider [#384](https://github.com/leaflet-extras/leaflet-providers/pull/384)
+ - Fix nlmaps attribution link [#386](https://github.com/leaflet-extras/leaflet-providers/pull/386)
+ - Update nlmaps.luchtfoto tiles url [#390](https://github.com/leaflet-extras/leaflet-providers/pull/390)
+ - Update NASAGIBS.ModisTerraSnowCover tiles url [#391](https://github.com/leaflet-extras/leaflet-providers/pull/391)
+ - Upgrade dependencies, add dependabot for npm/github actions [#392](https://github.com/leaflet-extras/leaflet-providers/pull/392)
+ - Switch JusticeMap and OpenAIP to https, remove GeoportailFrance.ignMaps from index.html [#393](https://github.com/leaflet-extras/leaflet-providers/pull/393)
+ - Replace OpenPtMap overlay by OPNVKarte layer [#396](https://github.com/Replace OpenPtMap overlay by OPNVKarte layer/pull/396)
+ - Updated maxzoom for CartoDB [#403](https://github.com/leaflet-extras/leaflet-providers/pull/403)
+ - Multiple dependencies updated by @dependabot
+
+## 1.12.0 (2021-04-02)
+ - Add OpenAIP map provider [#374](https://github.com/leaflet-extras/leaflet-providers/pull/374)
+ - Migrate from travis to github actions [#375](https://github.com/leaflet-extras/leaflet-providers/pull/375)
+ - Fix typo in OpenStreetMap France attribution [#378](https://github.com/leaflet-extras/leaflet-providers/pull/378)
+ - Add OpenSnowMap map provider [#379](https://github.com/leaflet-extras/leaflet-providers/pull/379)
+ - Improve Geoportail resources [#382](https://github.com/leaflet-extras/leaflet-providers/pull/382)
+ - Remove Wikimedia map provider [#383](https://github.com/leaflet-extras/leaflet-providers/pull/383)
+
+## 1.11.0 (2020-11-16)
+ - Update example Mapbox map_ID [#365](https://github.com/leaflet-extras/leaflet-providers/pull/365)
+ - Add USGS National Map tiles [#367](https://github.com/leaflet-extras/leaflet-providers/pull/367)
+ - Update preview libs and use leaflet 1.7.1 [#370](https://github.com/leaflet-extras/leaflet-providers/pull/370)
+ - Add Waymarked Trails overlay provider [#373](https://github.com/leaflet-extras/leaflet-providers/pull/373)
+
 ## 1.10.2 (2020-07-31)
  - Update mversion dep [#357](https://github.com/leaflet-extras/leaflet-providers/pull/357)
  - Mention stadia resitration in in README.md
